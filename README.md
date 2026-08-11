@@ -73,17 +73,17 @@ Example:
 
 This project helped me practice:
 
-* Python variables
-* User input
-* `if/else` statements
-* The modulo `%` operator
-* Basic programming logic
-
+- Python variables
+- User input
+- if/else statements
+- The modulo `%` operator
+- Basic programming logic
+- Error handling with `try/except`
+- Handling invalid input with `ValueError`
 ## 📌 Future Improvements
 
 Some possible improvements:
 
-* Handle invalid input
 * Check multiple numbers
 * Create a graphical user interface
 * Add a loop so users can check numbers repeatedly
