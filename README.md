@@ -8,6 +8,7 @@ A simple Python program that checks whether a given number is **even or odd**.
 * Checks whether the number is even or odd
 * Displays the result clearly
 * Beginner-friendly Python project
+* Can Check multiple number
 
 ## 🛠️ Requirements 
 
@@ -84,7 +85,6 @@ This project helped me practice:
 
 Some possible improvements:
 
-* Check multiple numbers
 * Create a graphical user interface
 * Add a loop so users can check numbers repeatedly
 
