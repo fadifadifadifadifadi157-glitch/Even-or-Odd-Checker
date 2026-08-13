@@ -9,7 +9,7 @@ A simple Python program that checks whether a given number is **even or odd**.
 * Displays the result clearly
 * Beginner-friendly Python project
 
-## 🛠️ Requirements
+## 🛠️ Requirements 
 
 * Python 3.x
 
